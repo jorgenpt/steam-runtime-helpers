@@ -13,7 +13,7 @@
 # application are satisfied by the steam-runtime.
 #
 # See this blog post for details:
-# http://jorgen.tjer.no/post/2014/05/27/linux-games-at-full-steam-ahead/
+#   http://jorgen.tjer.no/post/2014/05/28/steam-runtime-without-steam/
 
 
 # Path to the steam-runtime, relative to the directory where the

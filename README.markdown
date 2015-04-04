@@ -26,4 +26,4 @@ executes inside the steam-runtime, and to aid in running it under gdb.
 [self-contained-linux-post]: http://jorgen.tjer.no/post/2014/05/26/self-contained-game-distribution-on-linux/
 [update]: update_runtime.sh
 [extract]: extract_runtime.sh
-[launch]: launc_wrapper.sh
+[launch]: launch_wrapper.sh

@@ -7,7 +7,7 @@
 # runtime into the directory the script lives in, unless you already
 # have the current version.
 
-function has_tool() { which "$1" >&- 2>&-; }
+function has_tool() { which "$1" >/dev/null 2>&1; }
 function fatal() { echo "$@" >&2; exit 1; }
 
 RUNTIME_URL_BASE="http://media.steampowered.com/client/runtime"
